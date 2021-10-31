@@ -20,9 +20,9 @@
 
 (the image on delete button was found on the internet,and I uploaded in my button's image  properties)
 
-如果你想要直接使用我做的應用程式,直接按Scientific Calculator.exe下載使用即可
+如果你想要直接使用我做的應用程式,直接下載Debug檔,點.exe檔使用即可
 
-(If you want to try my winform program directly, press Scientific Calculator.exe and download it .)
+(If you want to try my winform program directly, download my Debug file and click .exe .)
 
 這個計算機的缺點是無法像小算盤那樣,輸入一整排的算式,然後程式讀取輸入來計算.這裡是像實體的計算機那樣,每按一個新數字就會清除輸出螢幕原本的數字,畢竟要做到能用括號等等一長串的輸入難度過高
 
